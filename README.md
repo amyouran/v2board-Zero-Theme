@@ -22,7 +22,15 @@
 ## 主题预览（1.0.0）
 
 ### 首页
+
 <img width="1425" alt="image" src="https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/d172de4a-e022-41ca-ae3f-97cf18731c5a">
+
+<img width="1424" alt="image" src="https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/2fbf2bc5-67bf-4ed7-acea-453931fb6999">
+
+<img width="1425" alt="image" src="https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/cd191744-563c-4006-b8ff-c61a1ab8b208">
+
+<img width="1422" alt="image" src="https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/cecf9f88-06da-4137-acea-12d7fd438c73">
+
 
 ### 登录
 <img width="1440" alt="image" src="https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/f43278bd-5d99-41bc-aca6-9fde4a42ccf0">
