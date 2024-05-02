@@ -23,13 +23,13 @@
 
 # 首页
 <img width="1425" alt="image" src="https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/d172de4a-e022-41ca-ae3f-97cf18731c5a">
-# 登录
+登录
 <img width="1440" alt="image" src="https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/f43278bd-5d99-41bc-aca6-9fde4a42ccf0">
-# 控制台
+控制台
 <img width="1426" alt="image" src="https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/f441c359-3393-40ef-9186-2d34bc880519">
-# 购买
+购买
 <img width="1424" alt="image" src="https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/36bceaec-4173-4a60-9083-62ac92023a69">
-# 节点
+节点
 <img width="1421" alt="image" src="https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/bd2f5062-cbca-46d1-864e-39a6a4083df2">
-# 其他页面请前往[预览网站](https://idcn.link/)查看
+其他页面请前往[预览网站](https://idcn.link/)查看
 
