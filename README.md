@@ -27,13 +27,10 @@
 ### 登录
 <img width="1440" alt="image" src="https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/f43278bd-5d99-41bc-aca6-9fde4a42ccf0">
 
-![image](https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/0dc7fc56-e64c-4175-88a8-bfa2d1daa6e4)
-
-
-
-
 ### 控制台
 <img width="1426" alt="image" src="https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/f441c359-3393-40ef-9186-2d34bc880519">
+
+![image](https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/0dc7fc56-e64c-4175-88a8-bfa2d1daa6e4)
 
 ### 购买
 <img width="1424" alt="image" src="https://github.com/amyouran/V2b-Zero-Theme/assets/150254537/36bceaec-4173-4a60-9083-62ac92023a69">
