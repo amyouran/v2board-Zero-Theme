@@ -1,4 +1,5 @@
-# V2board主题
+# v2board-Zero-Theme
+
 ## 主题信息
 
 *   主题名称：Zero
