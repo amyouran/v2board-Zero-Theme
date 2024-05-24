@@ -1,17 +1,21 @@
-# v2board-Zero-Theme
+<p align="center"><a href="https://1panel.cn"><img src="https://github.com/amyouran/v2board-Zero-Theme/assets/150254537/fc8ce092-d7eb-4b7f-85fe-71b319fb140c" alt="v2board theme zero" width="150" /></a></p>
+<p align="center"><b>前后端分离，科技化、简约、优雅的v2board主题</b></p>
+
+------------------------------
 
 ## 主题信息
 
-*   主题名称：Zero
-*   主题版本：1.0.0-正式版
-*   更新日期：2024/05/03
-*   特色功能：前后端分离，简约、优雅的Ui。
-*   环境兼容：V2board 1.7.4
+*   主题名称：**Zero Theme**
+*   主题版本：2.0.1
+*   更新日期：2024/05/24
+*   环境兼容：v2board 1.7.2+、xboard、wyxboard
 *   在线预览：[https://idcn.link/](https://idcn.link/)
 *   预览账号：soejeb@qq.com / 12345678
-*   主题价格：$ <del>100 USDT</del>  70 USDT
+*   主题价格：$ <del>70 USDT</del>  50 USDT
 *   交流群组：[Zero Theme Group](https://t.me/zeroThemeGroup)
 *   购买方式：[Linki](https://t.me/is_linki)
+
+## [安装文档](https://linkis-organization.gitbook.io/v2boar-zero-theme)
 
 ## 授权方式
 
