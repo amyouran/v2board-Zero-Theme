@@ -9,7 +9,7 @@
 *   主题版本：2.0.1
 *   更新日期：2024/05/24
 *   环境兼容：v2board 1.7.2+、xboard、wyxboard
-*   在线预览：[https://idcn.link/](https://idcn.link/)
+*   在线预览：[https://demo.idcn.link/](https://demo.idcn.link/)
 *   预览账号：soejeb@qq.com / 12345678
 *   主题价格：$ 150 USDT
 *   交流群组：[Zero Theme Group](https://t.me/zeroThemeGroup)
