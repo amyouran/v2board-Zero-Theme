@@ -11,7 +11,7 @@
 *   环境兼容：v2board 1.7.2+、xboard、wyxboard
 *   在线预览：[https://idcn.link/](https://idcn.link/)
 *   预览账号：soejeb@qq.com / 12345678
-*   主题价格：$ <del>150 USDT</del>  70 USDT
+*   主题价格：$ 150 USDT
 *   交流群组：[Zero Theme Group](https://t.me/zeroThemeGroup)
 *   购买方式：[Linki](https://t.me/is_linki)
 
